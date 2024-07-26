@@ -1,0 +1,442 @@
+[
+  {
+    "productName": "Laptop 11",
+    "price": 5683,
+    "rating": 4.41,
+    "discount": 56,
+    "availability": "out-of-stock",
+    "id": "c488d05e-692e-48b3-a19b-b851e0ccc413"
+  },
+  {
+    "productName": "Laptop 1",
+    "price": 8521,
+    "rating": 3.92,
+    "discount": 91,
+    "availability": "out-of-stock",
+    "id": "0dc64411-5c4f-45db-b4eb-9b33d887519c"
+  },
+  {
+    "productName": "Laptop 4",
+    "price": 1258,
+    "rating": 3.91,
+    "discount": 33,
+    "availability": "out-of-stock",
+    "id": "6c71b362-cb67-4565-a458-62124ec28195"
+  },
+  {
+    "productName": "Laptop 1",
+    "price": 1059,
+    "rating": 3.61,
+    "discount": 21,
+    "availability": "out-of-stock",
+    "id": "69c0c0d0-8d30-4654-91a0-ae8951fb19dd"
+  },
+  {
+    "productName": "Laptop 10",
+    "price": 4101,
+    "rating": 2.94,
+    "discount": 37,
+    "availability": "out-of-stock",
+    "id": "4e58e38a-359d-4b4d-9f9e-c924b6e28144"
+  },
+  {
+    "productName": "Laptop 13",
+    "price": 1244,
+    "rating": 2.82,
+    "discount": 45,
+    "availability": "out-of-stock",
+    "id": "67fdac9d-9b2d-4771-a8bf-48add45c3df9"
+  },
+  {
+    "productName": "Laptop 5",
+    "price": 7980,
+    "rating": 2.65,
+    "discount": 89,
+    "availability": "out-of-stock",
+    "id": "a4ca87de-22ba-496e-ab5c-28c3f16f5659"
+  },
+  {
+    "productName": "Laptop 14",
+    "price": 9254,
+    "rating": 2.54,
+    "discount": 56,
+    "availability": "out-of-stock",
+    "id": "67adf976-1071-4fba-81f6-567b50d8561e"
+  },
+  {
+    "productName": "Laptop 3",
+    "price": 9102,
+    "rating": 2.48,
+    "discount": 98,
+    "availability": "yes",
+    "id": "878c894a-5550-4521-abdf-00496fd6809a"
+  },
+  {
+    "productName": "Laptop 11",
+    "price": 2652,
+    "rating": 2.18,
+    "discount": 70,
+    "availability": "out-of-stock",
+    "id": "450046d8-a78d-4519-93d8-995eedfb9741"
+  },
+  {
+    "productName": "Laptop 8",
+    "price": 511,
+    "rating": 1.89,
+    "discount": 87,
+    "availability": "yes",
+    "id": "510082de-0b3b-4ca3-a2b8-9d517688f114"
+  },
+  {
+    "productName": "Laptop 10",
+    "price": 7145,
+    "rating": 1.64,
+    "discount": 15,
+    "availability": "yes",
+    "id": "7680ceba-39b5-4d51-873d-2433cdea4480"
+  },
+  {
+    "productName": "Laptop 13",
+    "price": 8686,
+    "rating": 1.48,
+    "discount": 24,
+    "availability": "yes",
+    "id": "447ee708-a8ca-46b9-a08c-01db57019cb9"
+  },
+  {
+    "productName": "Laptop 9",
+    "price": 1742,
+    "rating": 1.22,
+    "discount": 39,
+    "availability": "yes",
+    "id": "57957b52-9f50-4403-b912-31396d3a2960"
+  },
+  {
+    "productName": "Laptop 1",
+    "price": 2236,
+    "rating": 0.06,
+    "discount": 63,
+    "availability": "out-of-stock",
+    "id": "eb5a7e9d-ce74-466d-a919-20c229fe9eef"
+  },
+  {
+    "productName": "Computer 3",
+    "price": 3764,
+    "rating": 4.64,
+    "discount": 74,
+    "availability": "yes",
+    "id": "a0e609ce-fa5f-4e15-85f6-246611059975"
+  },
+  {
+    "productName": "Computer 7",
+    "price": 121,
+    "rating": 4.59,
+    "discount": 36,
+    "availability": "yes",
+    "id": "fc682905-8c5d-44f5-9fe9-80d130194bef"
+  },
+  {
+    "productName": "Computer 11",
+    "price": 3884,
+    "rating": 4.47,
+    "discount": 23,
+    "availability": "yes",
+    "id": "72959dbc-5c83-4108-8e1b-989a9e4ae26d"
+  },
+  {
+    "productName": "Computer 7",
+    "price": 4535,
+    "rating": 4.29,
+    "discount": 66,
+    "availability": "out-of-stock",
+    "id": "e2f5f1ab-0753-4704-8f11-85d54881677e"
+  },
+  {
+    "productName": "Computer 10",
+    "price": 3092,
+    "rating": 3.75,
+    "discount": 75,
+    "availability": "yes",
+    "id": "8ecbdfc4-9766-463f-9f43-16e42bec9a2d"
+  },
+  {
+    "productName": "Computer 7",
+    "price": 9434,
+    "rating": 3.65,
+    "discount": 99,
+    "availability": "out-of-stock",
+    "id": "c32bb777-bde6-4e39-af37-37ac15734205"
+  },
+  {
+    "productName": "Computer 6",
+    "price": 1555,
+    "rating": 3,
+    "discount": 41,
+    "availability": "yes",
+    "id": "f936a693-f66b-4441-bcc3-2d0cc529258e"
+  },
+  {
+    "productName": "Computer 9",
+    "price": 3857,
+    "rating": 2.98,
+    "discount": 71,
+    "availability": "out-of-stock",
+    "id": "40b9f1df-2fff-482c-afee-f46bbf812835"
+  },
+  {
+    "productName": "Computer 2",
+    "price": 7094,
+    "rating": 2.56,
+    "discount": 43,
+    "availability": "yes",
+    "id": "27711ab9-63e0-4007-8b60-b70094b1b8a0"
+  },
+  {
+    "productName": "Computer 11",
+    "price": 4250,
+    "rating": 2.03,
+    "discount": 55,
+    "availability": "yes",
+    "id": "bf823d80-794c-4c8f-bc51-40c4278a421b"
+  },
+  {
+    "productName": "Earphone 3",
+    "price": 7995,
+    "rating": 4.67,
+    "discount": 16,
+    "availability": "yes",
+    "id": "6b7120e8-f1e2-4073-87cc-99491af707d1"
+  },
+  {
+    "productName": "Earphone 2",
+    "price": 6408,
+    "rating": 4.38,
+    "discount": 0,
+    "availability": "yes",
+    "id": "7fa84d46-1b97-44f9-ba76-97636112cd1f"
+  },
+  {
+    "productName": "Earphone 10",
+    "price": 626,
+    "rating": 4.37,
+    "discount": 18,
+    "availability": "yes",
+    "id": "5481ef68-b1ed-446a-bd11-92b4d25ab912"
+  },
+  {
+    "productName": "Earphone 2",
+    "price": 4554,
+    "rating": 3.73,
+    "discount": 33,
+    "availability": "yes",
+    "id": "276b255e-1a0e-49eb-97ab-db108521f212"
+  },
+  {
+    "productName": "Earphone 12",
+    "price": 9959,
+    "rating": 3.46,
+    "discount": 4,
+    "availability": "yes",
+    "id": "e29a879d-a020-447c-aa8e-bbac46db2e80"
+  },
+  {
+    "productName": "Earphone 14",
+    "price": 8465,
+    "rating": 3.04,
+    "discount": 28,
+    "availability": "yes",
+    "id": "8dc6b453-2596-4914-a03f-adf1af7a751d"
+  },
+  {
+    "productName": "Earphone 10",
+    "price": 671,
+    "rating": 3,
+    "discount": 64,
+    "availability": "yes",
+    "id": "7b0bb6a9-a4d1-47f9-96bf-ac436df4b4fe"
+  },
+  {
+    "productName": "Earphone 7",
+    "price": 6923,
+    "rating": 2.89,
+    "discount": 98,
+    "availability": "out-of-stock",
+    "id": "6aeac363-cc4e-482a-963c-3b570e9a4494"
+  },
+  {
+    "productName": "Earphone 15",
+    "price": 6402,
+    "rating": 2.28,
+    "discount": 52,
+    "availability": "yes",
+    "id": "4a989d89-3ad6-4ee7-ba33-b5d36e238541"
+  },
+  {
+    "productName": "Earphone 12",
+    "price": 6672,
+    "rating": 1.7,
+    "discount": 19,
+    "availability": "yes",
+    "id": "4df7c8a0-f560-433c-82da-4812b9ec81d2"
+  },
+  {
+    "productName": "Phone 11",
+    "price": 9217,
+    "rating": 4.43,
+    "discount": 54,
+    "availability": "yes",
+    "id": "82aa5e5d-6ee2-4445-bbee-29abf7767728"
+  },
+  {
+    "productName": "Phone 14",
+    "price": 8598,
+    "rating": 4.03,
+    "discount": 40,
+    "availability": "out-of-stock",
+    "id": "4d1915d3-2de3-49c8-be6c-454853b5608a"
+  },
+  {
+    "productName": "Phone 7",
+    "price": 4065,
+    "rating": 4,
+    "discount": 3,
+    "availability": "yes",
+    "id": "196dcac5-7b47-4aee-a530-06f3dc423eee"
+  },
+  {
+    "productName": "Phone 1",
+    "price": 9013,
+    "rating": 3.85,
+    "discount": 72,
+    "availability": "out-of-stock",
+    "id": "1b9e1c49-0c04-4b2e-968e-acedf570b6ad"
+  },
+  {
+    "productName": "Phone 11",
+    "price": 6562,
+    "rating": 3.11,
+    "discount": 26,
+    "availability": "out-of-stock",
+    "id": "3e20e0fd-baf4-413d-89ec-18449a7532a9"
+  },
+  {
+    "productName": "Phone 12",
+    "price": 5495,
+    "rating": 2.87,
+    "discount": 38,
+    "availability": "out-of-stock",
+    "id": "106ab230-e3f9-4690-87ed-1c7e60b90dd6"
+  },
+  {
+    "productName": "Phone 4",
+    "price": 2139,
+    "rating": 2.7,
+    "discount": 64,
+    "availability": "yes",
+    "id": "44610900-e434-431f-b0e3-ab9eaf0cbdf2"
+  },
+  {
+    "productName": "Phone 10",
+    "price": 561,
+    "rating": 2.57,
+    "discount": 32,
+    "availability": "out-of-stock",
+    "id": "1cd5fda7-b17a-4353-907a-b911fa73c98f"
+  },
+  {
+    "productName": "Phone 7",
+    "price": 1184,
+    "rating": 2.55,
+    "discount": 62,
+    "availability": "yes",
+    "id": "a8d4d41b-df1b-4671-bbf0-7076fb0eb5c1"
+  },
+  {
+    "productName": "Phone 12",
+    "price": 3812,
+    "rating": 2.4,
+    "discount": 9,
+    "availability": "out-of-stock",
+    "id": "325892db-be24-48a8-bb26-312f31292389"
+  },
+  {
+    "productName": "TV 7",
+    "price": 7586,
+    "rating": 4.76,
+    "discount": 46,
+    "availability": "out-of-stock",
+    "id": "ade6dfbc-832d-454f-b23e-a89321c874f6"
+  },
+  {
+    "productName": "TV 7",
+    "price": 5011,
+    "rating": 4.74,
+    "discount": 28,
+    "availability": "yes",
+    "id": "e9e7645f-21fb-4063-808e-27c3ee36384b"
+  },
+  {
+    "productName": "TV 2",
+    "price": 9483,
+    "rating": 4.33,
+    "discount": 14,
+    "availability": "yes",
+    "id": "d13f7b75-bf0b-4372-a8ad-0da2cee652ad"
+  },
+  {
+    "productName": "TV 14",
+    "price": 1271,
+    "rating": 3.93,
+    "discount": 81,
+    "availability": "yes",
+    "id": "120f54d3-22b5-4e77-bf5e-fdc51d789c26"
+  },
+  {
+    "productName": "TV 1",
+    "price": 531,
+    "rating": 3.35,
+    "discount": 6,
+    "availability": "yes",
+    "id": "2560d4d4-439d-4193-b20b-b416e7f9d7a1"
+  },
+  {
+    "productName": "TV 15",
+    "price": 8266,
+    "rating": 2.94,
+    "discount": 30,
+    "availability": "yes",
+    "id": "43701306-90d2-4d7f-aeff-97ea36d06dec"
+  },
+  {
+    "productName": "TV 4",
+    "price": 3682,
+    "rating": 2.04,
+    "discount": 2,
+    "availability": "out-of-stock",
+    "id": "7a77ca85-0bc2-4f7d-9e4c-8d93bb324cd1"
+  },
+  {
+    "productName": "TV 4",
+    "price": 9585,
+    "rating": 1.69,
+    "discount": 92,
+    "availability": "yes",
+    "id": "a0c13b3e-96f7-4791-a21e-a9bbe5479bec"
+  },
+  {
+    "productName": "TV 14",
+    "price": 6615,
+    "rating": 1.5,
+    "discount": 68,
+    "availability": "yes",
+    "id": "383c4616-2c48-47c5-9024-d5e5084db5eb"
+  },
+  {
+    "productName": "TV 13",
+    "price": 7906,
+    "rating": 1.33,
+    "discount": 93,
+    "availability": "yes",
+    "id": "832fd438-0a37-47bd-8873-210e195194ce"
+  }
+]
